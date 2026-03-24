@@ -1,0 +1,8 @@
+git merge capitulo-1 
+
+51a78e7 (HEAD -> capitulo-1) Añade línea para el capítulo 1
+92e8101 (main) Crea historia inicial en main
+ceb3798 (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit
+
+Explicacion Un merge sin conflicto ocurre cuando Git puede unir los cambios de dos ramas automáticamente sin que haya problemas entre ellos.

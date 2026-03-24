@@ -1,0 +1,11 @@
+nano cp4-resolucion-conflicto.txt
+6612606 (HEAD -> main) Resuelve conflicto en línea 2
+365e559 Modifica línea 2 en main
+20ddf6e (version-alternativa) Modifica línea 2 en rama alternativa
+51a78e7 (capitulo-1) Añade línea para el capítulo 1
+92e8101 Crea historia inicial en main
+ceb3798 (origin/main, origin/HEAD) add deadline
+04dd0a5 Initial commit
+
+
+He resuelto el conflicto editando el archivo, eliminando los marcadores y combinando ambas versiones. Luego hice git add y git commit.

@@ -1,0 +1,8 @@
+Rutas no fusionadas:
+  (usa "git add <archivo>..." para marcar una resolución)
+        modificados por ambos:  historia.txt
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+        cp1-estado-inicial.txt
+        cp2-merge-limpio.txt
